@@ -18,6 +18,10 @@ h1 {
 }
 
 h3 {
+	font: 'Raleway', sans-serif;
+}
+
+h3 {
 	font: 900 1em 'Raleway', sans-serif;
 	color: rgba(0,0,0.5);
 	text-align: center;
